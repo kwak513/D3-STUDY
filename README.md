@@ -2,8 +2,6 @@
 
 ## 1-1. 계층
 
-![image.png](attachment:bc1adf5e-a822-46ba-838b-c83e22400aaf:dbbc1512-7e8d-407a-8d34-1bf50205c5e6.png)
-
 - Nivo, Victory, Recharts: 완성형 리액트 전용 차트 라이브러리
 - Visx: 부품형 차트 라이브러리
 - D3: 엔진 (내부적으로 SVG, Canvas 사용)
@@ -263,8 +261,8 @@ cf) 1 픽셀, 1 색상 정보
 
 - 화면
     
-    ![image.png](attachment:7a872ec0-2fa0-4c78-a764-b7d31dfb1752:f6ba3d4a-446c-4e35-af04-e75a5ea3e3fe.png)
-    
+<img width="263" height="224" alt="image" src="https://github.com/user-attachments/assets/7e4ebf61-572b-4aca-bfb0-89008b193cc7" />
+
     ---
     
 - app.js 수정
@@ -272,5 +270,5 @@ cf) 1 픽셀, 1 색상 정보
     ```jsx
       .style("height", (data) => data.value * 15 + "px");
     ```
-    
-    ![image.png](attachment:154215bb-4a58-4c71-9ac1-7b390a29023d:image.png)
+<img width="267" height="210" alt="image" src="https://github.com/user-attachments/assets/d8225b02-e8e2-4db7-820f-f1456e6fcb0a" />
+
