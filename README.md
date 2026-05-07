@@ -196,7 +196,7 @@ cf) 1 픽셀, 1 색상 정보
 
 데이터와 DOM을 연결
 
-## 6-1. D3 기본 with <div>
+## 6-1. D3 기본 with div
 
 - index.html
     
@@ -263,7 +263,6 @@ cf) 1 픽셀, 1 색상 정보
     
 <img width="263" height="224" alt="image" src="https://github.com/user-attachments/assets/7e4ebf61-572b-4aca-bfb0-89008b193cc7" />
 
-    ---
     
 - app.js 수정
     
