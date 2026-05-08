@@ -246,7 +246,7 @@ cf) 1 픽셀, 1 색상 정보
       .append("div")
       .classed("bar", true)
       .style("width", "50px")
-      .style("height", (data) => data.value * 15 + "px");
+      .style("height", "150px");
     
     ```
     
