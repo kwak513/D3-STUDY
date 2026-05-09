@@ -1,3 +1,32 @@
+# 목차
+
+- [1. 개요](#1-개요)
+  - [1-1. 브라우저 렌더링 기술](#1-1-브라우저-렌더링-기술)
+
+- [2. SVG / Canvas / WebGL 요약](#2-svg--canvas--webgl-요약)
+  - [2-1. 비교](#2-1-비교)
+  - [2-2. 사용처](#2-2-사용처)
+
+- [3. SVG (Scalable Vector Graphic)](#3-svg-scalable-vector-graphic)
+  - [3-1. SVG vs JPGPNG](#3-1-svg-vs-jpgpng)
+  - [3-2. SVG 특징](#3-2-svg-특징)
+  - [3-3. SVG의 Chart](#3-3-svg의-chart)
+
+- [4. Canvas](#4-canvas)
+
+- [5. WebGL (Web Graphics Library)](#5-webgl-web-graphics-library)
+  - [5-1. 특징](#5-1-특징)
+
+- [6. D3](#6-d3)
+  - [6-1. D3 기본 with div](#6-1-d3-기본-with-div)
+  - [6-2. D3 with SVG](#6-2-d3-with-svg)
+    - [6-2-1. 영어 용어 정리](#6-2-1-영어-용어-정리)
+    - [6-2-2. D3를 왜 SVG와 사용할까?](#6-2-2-d3를-왜-svg와-사용할까)
+    - [6-2-3. SVG 단독이 아닌 D3 사용 이유](#6-2-3-그렇다면-차트-생성-시-svg-단독이-아닌-d3-사용-이유는)
+    - [6-2-4. enter() vs exit()](#6-2-4-enter-vs-exit)
+    - [6-2-5. Simple Bar Chart 예시 코드](#6-2-5-simple-bar-chart-예시-코드)
+    - [6-2-6. x/y 좌표와 Scale](#6-2-6-xy-좌표와-scale)
+
 # 1. 개요
 
 
