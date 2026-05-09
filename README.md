@@ -8,7 +8,7 @@
   - [2-2. 사용처](#2-2-사용처)
 
 - [3. SVG (Scalable Vector Graphic)](#3-svg-scalable-vector-graphic)
-  - [3-1. SVG vs JPGPNG](#3-1-svg-vs-jpgpng)
+  - [3-1. SVG vs JPG/PNG](#3-1-svg-vs-jpgpng)
   - [3-2. SVG 특징](#3-2-svg-특징)
   - [3-3. SVG의 Chart](#3-3-svg의-chart)
 
