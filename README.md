@@ -22,7 +22,7 @@
   - [6-2. D3 with SVG](#6-2-d3-with-svg)
     - [6-2-1. 영어 용어 정리](#6-2-1-영어-용어-정리)
     - [6-2-2. D3를 왜 SVG와 사용할까?](#6-2-2-d3를-왜-svg와-사용할까)
-    - [6-2-3. SVG 단독이 아닌 D3 사용 이유](#6-2-3-그렇다면-차트-생성-시-svg-단독이-아닌-d3-사용-이유는)
+    - [6-2-3. SVG 단독이 아닌 D3 사용 이유](#6-2-3-svg-단독이-아닌-d3-사용-이유)
     - [6-2-4. enter() vs exit()](#6-2-4-enter-vs-exit)
     - [6-2-5. Simple Bar Chart 예시 코드](#6-2-5-simple-bar-chart-예시-코드)
     - [6-2-6. x/y 좌표와 Scale](#6-2-6-xy-좌표와-scale)
@@ -327,7 +327,7 @@ cf) 1 픽셀, 1 색상 정보
     DOM 기반이라서 Hover, Click, Animation, CSS 가능 → Interactive Chart에 적절
     
 
-### 6-2-3. 그렇다면 차트 생성 시, SVG 단독이 아닌 D3 사용 이유는?
+### 6-2-3. SVG 단독이 아닌 D3 사용 이유
 
 Data binding, Scale, Axis 를 직접 구현하지 않고, D3 기능을 이용 가능하기 때문.
 
